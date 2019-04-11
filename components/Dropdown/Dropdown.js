@@ -18,6 +18,9 @@ class Dropdown {
   toggleContent() {
     // Toggle the ".dropdown-hidden" class off and on
     this.content.classList.toggle('dropdown-hidden');
+
+    // this.content.classList.toggle('updown');
+    // this.content.classList.toggle('target');
   }
 }
 
