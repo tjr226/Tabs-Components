@@ -16,8 +16,8 @@ In this project, our design team has already built an HTML/CSS web page for us, 
 * [ x ] Add your project manager as collaborator on Github.
 * [ x ] Clone your OWN version of the repository (Not Lambda's by mistake!).
 * [ x ] Create a new branch: git checkout -b `<firstName-lastName>`.
-* [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-* [ ] Push commits: git push origin `<firstName-lastName>`.
+* [ x ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+* [ x ] Push commits: git push origin `<firstName-lastName>`.
 
 **Follow these steps for completing your project.**
 
@@ -42,9 +42,9 @@ In this project, our design team has already built an HTML/CSS web page for us, 
 
 * The `Tabs.js` file starts at the bottom of the page and then jumps around. Pay attention to what is being called and when. Study the corresponding HTML and LESS to get a better idea of how the tabs were built.
 
-* [ ] Tabs functionality working
+* [ x ] Tabs functionality working
 
-* [ ] Once you have completed the above, add a couple Tabs to the HTML in order to see first hand how great building webpages with components is!
+* [ x ] Once you have completed the above, add a couple Tabs to the HTML in order to see first hand how great building webpages with components is!
 
 ### Stretch Goals
 
