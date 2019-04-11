@@ -30,9 +30,9 @@ In this project, our design team has already built an HTML/CSS web page for us, 
 ### Part One (The Dropdown)
 
 * Once you load the page, you will notice a dropdown menu in the upper left side of the page. Currently when you click on it nothing happens. We will build out the functionality to allow a dropdown menu to open and close when a user clicks on the dropdown button.
-  * [ ] Study the HTML in the index.html file corresponding to the dropdown component.
-  * [ ]Study the LESS file in the Dropdown folder. 
-  * [ ] With your knowledge of the HTML and CSS, complete the `Dropdown.js` file. You will be creating a dropdown component.
+  * [ x ] Study the HTML in the index.html file corresponding to the dropdown component.
+  * [ x ]Study the LESS file in the Dropdown folder. 
+  * [ x ] With your knowledge of the HTML and CSS, complete the `Dropdown.js` file. You will be creating a dropdown component.
 
 ### Part Two (Tabs)
 
@@ -42,7 +42,9 @@ In this project, our design team has already built an HTML/CSS web page for us, 
 
 * The `Tabs.js` file starts at the bottom of the page and then jumps around. Pay attention to what is being called and when. Study the corresponding HTML and LESS to get a better idea of how the tabs were built.
 
-* Once you have completed the above, add a couple Tabs to the HTML in order to see first hand how great building webpages with components is!
+* [ ] Tabs functionality working
+
+* [ ] Once you have completed the above, add a couple Tabs to the HTML in order to see first hand how great building webpages with components is!
 
 ### Stretch Goals
 

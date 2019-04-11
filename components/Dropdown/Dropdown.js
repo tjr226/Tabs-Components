@@ -16,9 +16,6 @@ class Dropdown {
   
 
   toggleContent() {
-    console.log("button press");
-    console.log(this.content)
-    // console.log(this);
     // Toggle the ".dropdown-hidden" class off and on
     this.content.classList.toggle('dropdown-hidden');
   }
