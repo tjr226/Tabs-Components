@@ -5,7 +5,7 @@ class TabLink {
     this.element = element;
     
     // Get the custom data attribute on the Link
-    this.data = `.tabs-link[data-tab='${this.element.dataset.tab}']`;
+    this.data = `.tabs-item[data-tab='${this.element.dataset.tab}']`;
     
     // Using the custom data attribute get the associated Item element
     this.itemElement = document.querySelector(this.data);
@@ -31,7 +31,6 @@ class TabLink {
     this.element.classList.add('tabs-link-selected');
     
     // Call the select method on the item associated with this link
-    // this.itemElement.select()
     this.tabItem.select()
   }
 }
@@ -52,8 +51,6 @@ class TabItem {
     });
 
     // Add a class named "tabs-item-selected" to this element
-    console.log(this.element);
-    console.log(this);
     this.element.classList.add('tabs-item-selected');
   }
 }
